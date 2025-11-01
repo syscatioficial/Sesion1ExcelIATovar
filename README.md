@@ -3,9 +3,10 @@ Ejercicios de Excel IA
 
 # Título del Proyecto
 <h1> Prueba IS Beto</h1>
-## Introducción
+
 
 *   [Mi Sección](#mi-seccion)
+*   [Introducción](#Introduccion)
 *   [Tecnologías](#tecnologias)
 * [Requisitos del Sistema](#requisitos-del-sistema)
   * [Hardware](#hardware)
@@ -15,7 +16,8 @@ Ejercicios de Excel IA
 
 ## Mi Sección
 ...
-
+## Introducción
+...
 ## Tecnologías
 ...
 ## Requisitos del Sistema
