@@ -2,7 +2,7 @@ Ejercicios de Excel IA
 ![2025}](https://github.com/user-attachments/assets/f1804892-b7e1-4391-9d7a-f71e6ceae016)
 
 # Título del Proyecto
-<h1> Prueba IS Beto</h1>
+<h1 style="backgroud-color:#FFF000"> Prueba IS Beto</h1>
 ## Introducción
 
 *   [Mi Sección](#mi-seccion)
