@@ -7,6 +7,9 @@ Ejercicios de Excel IA
 
 *   [Mi Sección](#mi-seccion)
 *   [Tecnologías](#tecnologias)
+* [Requisitos del Sistema](#requisitos-del-sistema)
+  * [Hardware](#hardware)
+  * [Software](#software)
 *   [Instalación](#instalacion)
 *   [Acerca del autor](#Acerca-del-autor)
 
@@ -15,6 +18,14 @@ Ejercicios de Excel IA
 
 ## Tecnologías
 ...
+## Requisitos del Sistema
+[...contenido...]
+
+### Hardware
+[...contenido...]
+
+### Software
+[...contenido...]
 
 ## Instalación
 
