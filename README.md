@@ -3,7 +3,7 @@ Ejercicios de Excel IA
 
 # Título del Proyecto
 <h1> Prueba IS Beto</h1>
-<span style="color:orange;">Word up</span>
+## $\textcolor{yellow}{This\ is\ a\ Big\ Title}$
 
 *   [Mi Sección](#mi-seccion)
 *   [Introducción](#Introduccion)
