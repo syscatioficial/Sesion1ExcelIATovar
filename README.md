@@ -32,4 +32,14 @@ Ejercicios de Excel IA
 ...
 
 ## Acerca del autor
+>[!NOTE]
+>Aqui tienes una nota especial
+>[!TIP]
+>Aqui tienes un consejo 
+>[!IMPORTANT]
+>Aqui tienes una nota mas importantes
+>[!WARNING]
+>Aqui tienes una una advertencia
+>[!CAUTION]
+>Aqui tienes una una precaucion
 
