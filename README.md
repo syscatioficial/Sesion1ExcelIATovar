@@ -8,6 +8,7 @@ Ejercicios de Excel IA
 *   [Mi Sección](#mi-seccion)
 *   [Tecnologías](#tecnologias)
 *   [Instalación](#instalacion)
+*   [Instalación](#Acerca-del-autor)
 
 ## Mi Sección
 ...
@@ -16,3 +17,8 @@ Ejercicios de Excel IA
 ...
 
 ## Instalación
+
+...
+
+## Acerca del autor
+
