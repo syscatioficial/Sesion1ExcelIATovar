@@ -3,7 +3,7 @@ Ejercicios de Excel IA
 
 # Título del Proyecto
 <h1> Prueba IS Beto</h1>
-
+<span style="color:orange;">Word up</span>
 
 *   [Mi Sección](#mi-seccion)
 *   [Introducción](#Introduccion)
@@ -56,10 +56,6 @@ Ejercicios de Excel IA
 # text in gray
 @@ text in purple (and bold)@@
 ```
+$${\color{red}Color \space your \space \color{green}.md \space file \space \color{blue}in \space Github}$$
 
 
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
